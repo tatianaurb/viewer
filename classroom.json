@@ -1,0 +1,16 @@
+[
+  {
+    "id": "class1",
+    "name": "Classroom 1",
+    "images": [
+      "https://tatianaurb.github.io/viewer/classroom1/classroom1.jpg"
+    ]
+  },
+  {
+    "id": "class2",
+    "name": "Classroom 2",
+    "images": [
+      "https://tatianaurb.github.io/viewer/classroom2/classroom2.jpg"
+    ]
+  }
+]
